@@ -13,3 +13,7 @@ https://www.titledopens.com/
 ### Chess.com API
 
 https://www.chess.com/news/view/published-data-api
+
+# Open Source
+
+This project was started by @gsfleur
