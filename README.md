@@ -16,4 +16,4 @@ https://www.chess.com/news/view/published-data-api
 
 # Open Source
 
-This project was started by @gsfleur
+The frontend to this project is public and welcome to contributions from others!
