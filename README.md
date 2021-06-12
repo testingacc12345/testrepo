@@ -7,10 +7,10 @@ Furthermore, our users will be able to filter for specific type of openings play
 
 TitledOpens is built with ReactJS and the Chess.com Published Data API.
 
-# Visit the Website
+### Visit the Website
 
 https://www.titledopens.com/
 
-# Chess.com API
+### Chess.com API
 
 https://www.chess.com/news/view/published-data-api
