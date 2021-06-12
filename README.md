@@ -12,7 +12,7 @@ https://www.titledopens.com/
 
 # Open Source
 
-The frontend to this project is public and welcome to contributions from others! 
+### The frontend to this project is public and welcome to contributions from others! 
 
 In order to make a contribution, please fork this project and then make your changes. Thereafter, you may create a pull request to merge into the one and only other subsidiary branch. This branch will have a version number as its name and will include the next updates made to the site. The Releases tab will include all of the previous versions and a changelog of the updates that were made. Please try to keep the amount of lines changed to a low amount and try to use comments as much as possible in your code.
 
